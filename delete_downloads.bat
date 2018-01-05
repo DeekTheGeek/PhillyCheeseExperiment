@@ -1,1 +1,0 @@
-del /q "C:\Users\Derek\Downloads\*.*"
